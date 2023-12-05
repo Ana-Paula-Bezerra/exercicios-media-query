@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html{
+    background-color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+header > h1{
+    text-align: center;
+    background-color: rgb(148, 148, 148);
+}
+
+menu{
+    background-color: rgb(80, 79, 79);
+
+}
+
+menu > ul > li{
+    display: inline-block;
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+
+}
+
+
